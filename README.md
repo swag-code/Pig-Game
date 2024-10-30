@@ -1,2 +1,1 @@
-Pig-Game
 The Pig Game is a simple yet engaging dice game that you can play against friends. The objective is to be the first player to reach 100 points. Players take turns rolling a die, accumulating points for each roll, but they risk losing points if they roll a 1. Players can choose to 'hold' and save their points or continue rolling to try and increase their score. This application provides a user-friendly interface and can be easily customized for different rules or player settings. Enjoy a classic game of chance and strategy with the Pig Game!
